@@ -9,12 +9,11 @@ button{
     background-color: darkcyan;
     border-width: 5px;
     border-color: darkcyan;
+    font-size: large;
 }
 button:hover{
     background-color: aquamarine;
     border-width: 5px;
     border-color: darkcyan;
-}
-#dugmad{
-    font-size: larger;
+    font-size: large;
 }
